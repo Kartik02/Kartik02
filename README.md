@@ -20,7 +20,7 @@ I did my graduation in Bsc Computer science from India. In my free time I like t
 ## 🔥 Streak Stats & Languages
 <p align="center"><img src=https://github-readme-stats.vercel.app/api?username=Kartik02&theme=highcontrast&show_icons=true&count_private=true alt="Kartik" /></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartik02&theme=algolia" alt="Kartik" /></p>
-<!--<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik02&theme=algolia&layout=compact" alt="Kartik" /></p> -->
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik02&theme=algolia&layout=compact" alt="Kartik" /></p> 
 <p align="center"><img src=https://komarev.com/ghpvc/?username=Kartik02 /></p>
 <br>
 <hr/>
