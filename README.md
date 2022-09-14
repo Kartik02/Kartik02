@@ -49,7 +49,7 @@ I did my graduation in Bsc Computer science from India. In my free time I like t
 <p align="center">
   <a href="mailto:kartikpoojari29@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
   <a href="https://instagram.com/kartik._______"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" title='Instagram' alt="Instagram"/></a>
-  <a href="https://in.linkedin.com/in/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
+  <a href="https://https://www.linkedin.com/in/kartik-poojari-7a5246250/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
   <a href="https://www.snapchat.com/add/kartikpoojari22?share_id=4XIGp035UsA&locale=en-US"><img src="https://img.icons8.com/bubbles/50/000000/snapchat.png" title='Snapchat' alt="Snapchat"/></a>
   
 </p>
