@@ -1,7 +1,7 @@
 <h1 align="center">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Kartik! </h1>
 
 <h4 align="center">
-I did my graduation in Bsc Computer science from India. In my free time I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.
+I am doing Master's in computer application(MCA) from pune university. In my free time I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.
 </h4>
 
 <hr></hr>
